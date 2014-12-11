@@ -1,0 +1,53 @@
+.thumbnails__list,
+.thumbnails__pager
+{
+   margin: 0;
+   padding: 0;
+   list-style-type: none;
+}
+
+.thumbnails__list li
+{
+   display: inline-block;
+   width: 19%;
+   margin-top: 1%;
+   margin-right: 1%;
+}
+
+.thumbnail
+{
+   width: 100%;
+}
+
+.thumbnail:hover,
+.thumbnail:focus
+{
+   border: 1px solid #FCB720;
+   opacity: 0.7;
+}
+
+.thumbnails__pager
+{
+   text-align: right;
+   margin: 0.5em 0;
+}
+
+.thumbnails__pager li
+{
+   display: inline;
+}
+
+.thumbnails__pager a
+{
+   margin: 0 0.2em;
+   color: #FFFFFF;
+   text-decoration: none;
+}
+
+.thumbnails__pager a.current,
+.thumbnails__pager a:hover,
+.thumbnails__pager a:focus
+{
+   color: #FCB720;
+   text-decoration: underline;
+}

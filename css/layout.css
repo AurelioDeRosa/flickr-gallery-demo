@@ -1,0 +1,32 @@
+*,
+*:before,
+*:after
+{
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+.island
+{
+   display: block;
+   max-width: 1024px;
+   margin: 0 auto;
+}
+
+body
+{
+   background-color: #060C10;
+   color: #FFFFFF;
+   font-family: Arial, Calibri, Helvetica, sans-serif;
+}
+
+h1
+{
+   display: block;
+   color: #FCB720;
+}
+
+a
+{
+   color: #FFFFFF;
+}
