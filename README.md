@@ -1,6 +1,6 @@
 # Flickr gallery demo
 
-This repository contains the demo I've developed as a part of a mini-series written for
+This repository contains the demo I've developed as a part of a mini-series ([part 1](http://www.sitepoint.com/creating-image-gallery-using-flickr-api-requirements-markup/) and [part 2](http://www.sitepoint.com/creating-image-gallery-flickr-api-style-logic/)) written for
 [SitePoint](http://www.sitepoint.com/). The project shows how to use the Flickr API to develop a simple service
 that allows a user to enter a text and show the gallery of the photos that contain the given text within their
 title or description.
